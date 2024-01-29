@@ -78,4 +78,4 @@ firebase_admin.initialize_app(cred, {
 Please note that some methods may raise exceptions in case of invalid or expired cookies, HTTP errors, or other issues. Make sure to handle these exceptions appropriately in your code.
 
 ## Credits
-This script was developed by Vaibhav Srivastava and is provided under the [MIT License](LICENSE). Feel free to modify and use it according to your needs.
+This script was developed by Ayush Sahu & Vaibhav Srivastava and is provided under the [MIT License](LICENSE). Feel free to modify and use it according to your needs.
