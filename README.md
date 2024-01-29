@@ -77,5 +77,11 @@ firebase_admin.initialize_app(cred, {
 
 Please note that some methods may raise exceptions in case of invalid or expired cookies, HTTP errors, or other issues. Make sure to handle these exceptions appropriately in your code.
 
+## Screenshots
+
+![bot1](https://github.com/ayushsahu07/Amizone-ChatBot/assets/146854646/5377d4da-4c7c-431a-98b5-5cb07a3fb80c)
+
+
+
 ## Credits
 This script was developed by Ayush Sahu & Vaibhav Srivastava and is provided under the [MIT License](LICENSE). Feel free to modify and use it according to your needs.
